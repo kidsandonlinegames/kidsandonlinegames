@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my first github project. This is still in progress. It is supposed to link together some code for the creation of a free online game webiste.
+You can always link a website.
+
+https://www.kidsandonlinegames.com/
+
